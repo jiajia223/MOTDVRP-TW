@@ -85,4 +85,4 @@ class Solution():
                     time += 0.05  
             time += _travel_time(distance[int(self.truck_route[i][0])][int(self.truck_route[i + 1][0])], truck_speed)
         return time
-# Other code is being updated.
+# The code is being updated...
